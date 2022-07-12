@@ -82,7 +82,7 @@ const Home = () => {
           </h1>
           <h2>Web Development, Embedded Systems, and Backend Developement</h2>
           <Link to="/contact" className="flat-button">
-            CONTACT ME
+            CONTACT ME HERE
           </Link>
         </div>
         <Logo />
