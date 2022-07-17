@@ -1,20 +1,16 @@
 import { Outlet } from "react-router-dom";
 import Sidebar from "../Sidebar/";
+import TopBar from "../TopBar/TopBar";
 import "./index.scss";
 
 const Layout = () => {
   return (
     <div className="App">
+      <TopBar></TopBar>
       <Sidebar />
-      <div className="page">
-        <span className="tags top-tags">&lt;body&gt;</span>
 
+      <div className="page">
         <Outlet />
-        <span className="tags bottom-tags">
-          &lt;/body&gt;
-          <br />
-          <span className="bottom-tag-html">&lt;/html&gt;</span>
-        </span>
       </div>
     </div>
   );

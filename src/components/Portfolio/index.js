@@ -22,8 +22,6 @@ const Portfolio = () => {
       clearTimeout(timer);
     };
   });
-  console.log(data.portfolio);
-  console.log(portfolio);
 
   const renderPortfolio = (portfolio) => {
     let pics = [Quoridor, MKLT, PropLurk, Wedding, exercise];

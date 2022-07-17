@@ -6,6 +6,15 @@
   top: 0;
   z-index: 3;
   min-height: 500px;
+  @media only screen and (max-width: 800px) {
+    width: 50px;
+  }
+  @media only screen and (max-width: 520px) {
+    margin-right: 30px;
+  }
+  @media only screen and (max-width: 500px) {
+    display: none;
+  }
 
   .logo {
     display: block;
@@ -74,6 +83,9 @@
       &:first-child {
         &:after {
           content: "HOME";
+          @media only screen and (max-width: 580px) {
+            font-size: 5px;
+          }
         }
       }
     }
@@ -81,18 +93,30 @@
     a.about-link {
       &:after {
         content: "ABOUT";
+        @media only screen and (max-width: 580px) {
+          font-size: 5px;
+        }
       }
     }
 
     a.contact-link {
       &:after {
         content: "CONTACT";
+        @media only screen and (max-width: 580px) {
+          font-size: 5px;
+        }
       }
     }
 
     a.portfolio-link {
       &:after {
         content: "PORTFOLIO";
+        @media only screen and (max-width: 1000px) {
+          font-size: 8px;
+        }
+        @media only screen and (max-width: 800px) {
+          font-size: 6px;
+        }
       }
     }
 
@@ -117,9 +141,12 @@
       a {
         padding: 7px 0;
         display: block;
-        font-size: 15px;
+        font-size: 14px;
         line-height: 16px;
         color: #4d4d4e;
+        @media only screen and (max-width: 800px) {
+          font-size: 12px;
+        }
 
         &:hover {
           color: #ffd700;

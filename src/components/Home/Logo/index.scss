@@ -27,10 +27,23 @@
 .move-me {
   left: auto;
   right: auto;
-  position: absolute;
+  position: fixed;
   top: 0;
-  right: 150px;
+  right: 1vh;
   bottom: 0;
   z-index: 10px;
   transform: rotate(-0.05turn);
+  @media only screen and (max-width: 930px) {
+    display: none;
+  }
+
+  @media only screen and (max-width: 500px) {
+    display: block;
+    position: relative;
+    left: auto;
+    right: 15%;
+    top: 0;
+    opacity: 15%;
+    z-index: 0px;
+  }
 }

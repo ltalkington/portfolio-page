@@ -53,8 +53,8 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in all opportunities such as freelance, full time
-            jobs, and more. Please reach out via the contact form to connect.
+            I am interested in all opportunities, feel free to contact me below
+            and I will get back to you.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
@@ -92,13 +92,7 @@ const Contact = () => {
             </form>
           </div>
         </div>
-        <div className="info-map">
-          Logan Talkington,
-          <br />
-          Saint Louis, Missouri
-          <br />
-          <span>talkington.logan@gmail.com</span>
-        </div>
+
         <div className="map-wrap">
           <MapContainer center={[38.6251, -90.1868]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
