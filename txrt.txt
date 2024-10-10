@@ -1,0 +1,54 @@
+Logan Talkington
+217-691-2481 | talkington.logan@gmail.com | linkedin.com/in/logantalkington/ | github.com/ltalkington Professional Experience
+The Boeing Company Saint Louis, MO Mission System Software Engineer Mar 2022 – Present
+• Automated manual requirements testing using C♯ and Python to save roughly 30 hours per test event
+• Developed real-time full-stack software in C++ for mission system displays interfacing with 100s of sensors
+• Increased the nightly Jenkins testing events speed by 20% by modernizing legacy code
+• Upgraded Jenkins pipelines to GitLab runners to modernize pipelines and leveraged cloud infrastructure
+• Designed full stack web and desktop applications to view results of daily testing events
+• Modernized team utility scripts from Perl to Python and increased build times by about 33%
+The Boeing Company Jan 2020 – Mar 2022
+    Procurement Agent
+• Bought and managed software procurement process for key software worth 70+ million
+• Assembled a software suite to forecast inventory needs in Python to reduce shortages by 30%
+• Streamlined price analysis process by utilizing Python scripts to save 5 hours a week
+• Coded a full-stack website to manage purchases and future needs
+Education
+Georgia Institute of Technology
+Master of Science in Computer Science
+Oregon State University
+Bachelor of Science in Computer Science
+Millikin University
+Master of Business Administration
+Millikin University
+Bachelor of Science in Business Management, Minor in Finance
+Projects
+PropLurk | Python, JavaScript, React, MySQL, Docker, AWS, Git
+• Engineered a full-stack web application that analyzes the property valuation of rental portfolios using React
+• Implemented Firebase authentication with Google and Apple OAuth that can handle 100k+ users
+• Published the web application using AWS EC2, Amplify, RDS, and 2 load balancers
+• Validated system design by handling roughly 20 users using the service in total with a revenue of 100 dollars a
+month
+Jam Session | JavaScript, React, PostGreSQL, GitLab, Git Jan 2023 – May 2023
+• Constructed a full-stack web app to help musicians find others to ’jam’ with.
+• Produced a web application on GCP with Google Compute Engine and 5 micro services
+• Implemented continuous delivery using GitLab to build the 5 microservices upon a change in back-end
+Quoridor | Python, Tkinter, , Git Jan 2021 – May 2021
+• Architected a digital version of the board game quoridor a game where two players fight to get to the opponents
+end of the board
+• Conceptualized the UI through Tkinter using a grid board for a 2 player experience
+Technical Skills
+Languages: Python, C/C++, SQL (MySQL PostGreSQL), NoSQL, JavaScript, HTML/CSS, C♯
+Frameworks: React, Node.js, JUnit, Tailwind CSS, Material-UI
+Developer Tools: Git, Docker, Jenkins, Google Cloud Platform, BitBucket, Jira, GitLab, Kubernetes, RHEL6+
+Saint Louis, MO
+Atlanta, GA
+Aug 2024 – Jul 2026
+Corvallis, OR
+Jan 2021 – Mar 2023
+Decatur, IL
+Aug 2018 – Aug 2019
+Decatur, IL
+Aug 2014 – May 2018
+  May 2023 – Present
+ 
